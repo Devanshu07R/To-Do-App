@@ -1,2 +1,20 @@
 # To-Do-App
-📝✅ To-Do App – A simple and efficient task manager built with HTML, CSS, and JavaScript. 🏆 Add, edit, delete, and mark tasks as completed with a clean UI and smooth animations. ⚡ Fully responsive and lightweight for seamless productivity. Stay organized and get things done! 🚀
+📝 To-Do App – Stay Organized & Boost Productivity ✅
+A simple, efficient, and responsive To-Do App built with HTML, Tailwind CSS, and JavaScript. Easily manage your daily tasks – add, edit, delete, and mark tasks as completed. Designed for a smooth user experience with local storage support, interactive UI, and seamless responsiveness.
+
+✨ Features
+✅ Add, Edit & Delete Tasks – Manage your to-do list effortlessly.
+✅ Mark Tasks as Completed – Stay motivated with progress tracking.
+✅ Local Storage Support – Saves tasks even after refreshing the page.
+✅ Smooth Animations – Enhances user experience with interactive effects.
+✅ Fully Responsive – Works flawlessly on all devices.
+✅ Minimal & Clean UI – A distraction-free experience for better productivity.
+
+🛠️ Tech Stack
+🔹 HTML – Provides structure to the app.
+🔹 Tailwind CSS – Ensures a sleek, modern, and responsive design.
+🔹 JavaScript – Manages task interactions and local storage.
+
+🚀 Live Demo & Contributions
+🔗 Live Demo: [Deploy Link]
+📌 Star ⭐ this project & contribute!
