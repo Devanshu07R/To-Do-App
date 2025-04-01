@@ -16,5 +16,5 @@ A simple, efficient, and responsive To-Do App built with HTML, Tailwind CSS, and
 🔹 JavaScript – Manages task interactions and local storage.
 
 🚀 Live Demo & Contributions
-🔗 Live Demo: [Deploy Link]
+🔗 Live Demo:  https://devanshu07r.github.io/To-Do-App/
 📌 Star ⭐ this project & contribute!
