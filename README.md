@@ -22,5 +22,5 @@ A simple, efficient, and responsive To-Do App built with HTML, Tailwind CSS, and
 ---
 
 🚀 Live Demo & Contributions
-🔗 Live Demo: v gd xdbhhff https://devanshu07r.github.io/To-Do-App/
+🔗 Live Demo: https://devanshu07r.github.io/To-Do-App/
 📌 Star ⭐ this project & contribute!
