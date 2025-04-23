@@ -17,7 +17,7 @@ A simple, efficient, and responsive To-Do App built with HTML, Tailwind CSS, and
 🛠️ Tech Stack
 🔹 HTML – Provides structure to the app.
 🔹 Tailwind CSS – Ensures a sleek, modern, and responsive design.
-🔹 JavaScript – Manages task interactions and local storage.bccfgg
+🔹 JavaScript – Manages task interactions and local storage.
 
 ---
 
