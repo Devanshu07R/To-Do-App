@@ -10,7 +10,7 @@ A simple, efficient, and responsive To-Do App built with HTML, Tailwind CSS, and
 ✅ Local Storage Support – Saves tasks even after refreshing the page.
 ✅ Smooth Animations – Enhances user experience with interactive effects.
 ✅ Fully Responsive – Works flawlessly on all devices.
-✅ Minimal & Clean UI – A distraction-free experience for better productivity.
+✅ Minimal & Clean UI – A distraction-free experience for better productivity.m
 
 ---
 
