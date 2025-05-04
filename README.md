@@ -1,6 +1,6 @@
 # 📝To-Do-App
 📝 To-Do App – Stay Organized & Boost Productivity ✅
-A simple, efficient, and responsive To-Do App built with HTML, Tailwind CSS, and JavaScript. Easily manage your daily tasks – add, edit, delete, and mark tasks as completed. Designed for a smooth user experience with local storage support, interactive UI, and seamless responsiveness.
+A simple, efficient, and responsive To-Do App built with HTML, Tailwind CSS, and JavaScript. Easily manage your daily tasks – add, edit, delete, and mark tasks as completed. Designed for a smooth user experience with local storage support, interactive UI, and seamless responsiveness..
 
 ---
 
